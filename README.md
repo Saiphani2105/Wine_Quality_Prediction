@@ -105,12 +105,6 @@ wine-quality-classification/
 - `requirements.txt` - List of dependencies.  
 - `README.md` - Project documentation.  
 
----
-
-## 🙏 **Acknowledgments**  
-I extend my heartfelt thanks to **Innomatics** for providing a supportive learning environment, my tutor **Saxon**, and my mentor **Lakshmi** for their invaluable guidance throughout this project.  
-
----
 
 
 ---
